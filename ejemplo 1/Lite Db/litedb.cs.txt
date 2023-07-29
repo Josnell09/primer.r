@@ -27,8 +27,8 @@ namespace Litedb2
                 // Create your new customer instance
                 var customer = new Customer
                 {
-                    Name = "Haziel",
-                    Phones = new string[] { "8098-5456", "4600-8654" },
+                    Name = "josnell",
+                    Phones = new string[] { "8098-56896", "4600-8654" },
                     IsActive = true
                 };
 
@@ -36,7 +36,7 @@ namespace Litedb2
                 col.Insert(customer);
 
                 // Update a document inside a collection
-                customer.Name = "Haziel";
+                customer.Name = "josnell";
                 col.Update(customer);
 
                 // Index document using document Name property
