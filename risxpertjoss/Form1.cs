@@ -1,4 +1,12 @@
-﻿using System;
+/***********************************************************/
+/*           Programación para mecatrónicos                */
+/*  Nombre:    Josnell Tejeda Sicart                       */
+/*  Matricula: 2022-1145                                   */
+/*  Seccion:   Viernes                                     */
+/*  Practica:  Risxpert                                    */
+/*  Fecha:     1/8/2023                                    */
+/***********************************************************/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
