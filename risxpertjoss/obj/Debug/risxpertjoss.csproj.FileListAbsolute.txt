@@ -1,0 +1,11 @@
+C:\Users\josne\source\repos\proyec de visual\risxpertjoss\bin\Debug\risxpertjoss.exe.config
+C:\Users\josne\source\repos\proyec de visual\risxpertjoss\bin\Debug\risxpertjoss.exe
+C:\Users\josne\source\repos\proyec de visual\risxpertjoss\bin\Debug\risxpertjoss.pdb
+C:\Users\josne\source\repos\proyec de visual\risxpertjoss\obj\Debug\risxpertjoss.csproj.AssemblyReference.cache
+C:\Users\josne\source\repos\proyec de visual\risxpertjoss\obj\Debug\risxpertjoss.csproj.SuggestedBindingRedirects.cache
+C:\Users\josne\source\repos\proyec de visual\risxpertjoss\obj\Debug\risxpertjoss.Form1.resources
+C:\Users\josne\source\repos\proyec de visual\risxpertjoss\obj\Debug\risxpertjoss.Properties.Resources.resources
+C:\Users\josne\source\repos\proyec de visual\risxpertjoss\obj\Debug\risxpertjoss.csproj.GenerateResource.cache
+C:\Users\josne\source\repos\proyec de visual\risxpertjoss\obj\Debug\risxpertjoss.csproj.CoreCompileInputs.cache
+C:\Users\josne\source\repos\proyec de visual\risxpertjoss\obj\Debug\risxpertjoss.exe
+C:\Users\josne\source\repos\proyec de visual\risxpertjoss\obj\Debug\risxpertjoss.pdb
