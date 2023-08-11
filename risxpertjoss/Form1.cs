@@ -1,4 +1,13 @@
-﻿using System;
+/***********************************************************/
+/*           Programación para mecatrónicos                */
+/*  Nombre:    Josnell Tejeda Sicart                       */
+/*  Matricula: 2022-1145                                   */
+/*  Seccion:   Viernes                                     */
+/*  Practica:  Risxpert                                    */
+/*  Fecha:     1/8/2023                                    */
+/***********************************************************/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -83,18 +92,18 @@ namespace risxpertjoss
         {
             if (e.ColumnIndex >= 3 && e.ColumnIndex <= 8 && !string.IsNullOrEmpty(e.FormattedValue.ToString()))
             {
-                // Try to parse the input value as an integer
+              
                 if (!int.TryParse(e.FormattedValue.ToString(), out int numericValue))
                 {
-                    e.Cancel = true; // Cancel the edit if the value is not numeric
+                    e.Cancel = true; 
                     MessageBox.Show("Inserte valor numérico.", "Valor no Válido", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
 
-                // Check if the value is within the desired range (1 to 5)
+               
                 if (numericValue < 1 || numericValue > 5)
                 {
-                    e.Cancel = true; // Cancel the edit if the value is not within the desired range
+                    e.Cancel = true; 
                     MessageBox.Show("Inserte valor entre 1 y 5.", "Valor no Válido", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
