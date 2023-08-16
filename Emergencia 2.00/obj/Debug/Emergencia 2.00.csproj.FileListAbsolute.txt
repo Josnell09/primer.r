@@ -1,0 +1,11 @@
+C:\Users\josne\OneDrive\Documentos\Emergencia 2.00\Emergencia 2.00\bin\Debug\Emergencia 2.00.exe.config
+C:\Users\josne\OneDrive\Documentos\Emergencia 2.00\Emergencia 2.00\bin\Debug\Emergencia 2.00.exe
+C:\Users\josne\OneDrive\Documentos\Emergencia 2.00\Emergencia 2.00\bin\Debug\Emergencia 2.00.pdb
+C:\Users\josne\OneDrive\Documentos\Emergencia 2.00\Emergencia 2.00\obj\Debug\Emergencia 2.00.csproj.AssemblyReference.cache
+C:\Users\josne\OneDrive\Documentos\Emergencia 2.00\Emergencia 2.00\obj\Debug\Emergencia 2.00.csproj.SuggestedBindingRedirects.cache
+C:\Users\josne\OneDrive\Documentos\Emergencia 2.00\Emergencia 2.00\obj\Debug\Emergencia_2._00.Form1.resources
+C:\Users\josne\OneDrive\Documentos\Emergencia 2.00\Emergencia 2.00\obj\Debug\Emergencia_2._00.Properties.Resources.resources
+C:\Users\josne\OneDrive\Documentos\Emergencia 2.00\Emergencia 2.00\obj\Debug\Emergencia 2.00.csproj.GenerateResource.cache
+C:\Users\josne\OneDrive\Documentos\Emergencia 2.00\Emergencia 2.00\obj\Debug\Emergencia 2.00.csproj.CoreCompileInputs.cache
+C:\Users\josne\OneDrive\Documentos\Emergencia 2.00\Emergencia 2.00\obj\Debug\Emergencia 2.00.exe
+C:\Users\josne\OneDrive\Documentos\Emergencia 2.00\Emergencia 2.00\obj\Debug\Emergencia 2.00.pdb
